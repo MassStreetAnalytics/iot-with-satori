@@ -1,0 +1,7 @@
+How you run a jar file.
+
+java -jar <File Name>.jar
+
+Find ports that are in use: 
+On Windows: netstat -a on windows
+On Linux: netstat -tulpn | grep LISTEN

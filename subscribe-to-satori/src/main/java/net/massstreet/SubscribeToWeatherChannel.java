@@ -6,7 +6,7 @@ import java.io.*;
 
 public class SubscribeToWeatherChannel {
   static final String endpoint = "wss://open-data.api.satori.com";
-  static final String appkey = "CDDCd00a45FC9BaBCb17A3eC93EB6C87"; //sign up for a Satori account to get a permanent key.
+  static final String appkey = "8d7Cbc16C0FBc2Fc558a8F021aE61AFA"; //sign up for a Satori account to get a permanent key.
   static final String channel = "full-weather";
   
 
