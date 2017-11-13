@@ -1,5 +1,6 @@
 //Be sure to check out the Spark Structured Streaming Programming Guide
 //https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+//Simpler data feed: https://www.satori.com/opendata/channels/Everett-Transit
 package net.massstreet
 
 import org.apache.spark.sql.functions._
